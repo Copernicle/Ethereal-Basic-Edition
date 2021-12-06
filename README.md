@@ -33,16 +33,9 @@ MOD SOURCES:
 11. starlight: https://www.curseforge.com/minecraft/mc-mods/starlight
 12. simple voice chat: https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
 13. No Telemetry: https://github.com/kb-1000/no-telemetry
-
-+++ Full Edition Mods +++ (Added to Basic Edition Mods)
-14. ash: https://www.curseforge.com/minecraft/mc-mods/ash-another-simple-hud
-15. freelook: https://www.curseforge.com/minecraft/mc-mods/freelook-fabric
-16. inventory profiles next: https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next
-17. isometric renders: https://www.curseforge.com/minecraft/mc-mods/isometric-renders
-18. Skin swapper: https://www.curseforge.com/minecraft/mc-mods/skin-swapper
-19. Xaero's Minimap: https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
-
+14. 
 +++ Changelog +++
 12.2.2021 | Changelog section added in README.
 12.2.2021 | Proper mod documentation added.
 12.4.2021 | Cleaned up README a bit.
+12.5.2021 | Fixed 1.17 mods that somehow got into the 1.18 folder.
